@@ -26,6 +26,22 @@ D19楼长在楼栋群中公布了搬迁的大致安排。根据这份安排，�
 
 D1、D14的地理位置差于D19，宿舍设施不优于D19。
 
+### 2019年7月25日
+
+更新二月十三微博上披露的致远大楼规划，将建在D19原址上。
+
+![2019072505](C:\Users\BruceChin\Documents\GitHub\WanderingD19\images\2019072505.jpg)
+
+![2019072501](C:\Users\BruceChin\Documents\GitHub\WanderingD19\images\2019072501.jpg)
+
+![2019072502](C:\Users\BruceChin\Documents\GitHub\WanderingD19\images\2019072502.jpg)
+
+![2019072503](C:\Users\BruceChin\Documents\GitHub\WanderingD19\images\2019072503.jpg)
+
+![2019072506](C:\Users\BruceChin\Documents\GitHub\WanderingD19\images\2019072506.jpg)
+
+![2019072504](C:\Users\BruceChin\Documents\GitHub\WanderingD19\images\2019072504.jpg)
+
 更多链接：
 - 知乎：[如何看待上海交通大学要求D19宿舍楼学生集体搬迁？](https://www.zhihu.com/question/335607167)
 
