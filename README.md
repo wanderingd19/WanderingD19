@@ -2,6 +2,8 @@
 
 详情：[GitPage](https://wanderingd19.github.io/WanderingD19/)
 
+公开信：[D19全体学生关于搬宿舍一事致有关领导的一封信](https://raw.githubusercontent.com/wanderingd19/WanderingD19/master/D19全体学生关于搬宿舍一事致有关领导的一封信.pdf)
+
 ## 发生了什么事？
 ### 2019年7月18日及以前
 有小道消息传出学生公寓D19及D16将搬迁，以安排新的致远书院计划中**致远学生**的入住。
@@ -25,6 +27,8 @@ D19被确定搬迁至D1、D14，相关正式通知已下达，通知中涉及搬
 D19楼长在楼栋群中公布了搬迁的大致安排。根据这份安排，现有的相处两年的室友将进行更换。
 
 D1、D14的地理位置差于D19，宿舍设施不优于D19。
+
+晚些时候起草组发布[D19全体学生关于搬宿舍一事致有关领导的一封信](https://raw.githubusercontent.com/wanderingd19/WanderingD19/master/D19全体学生关于搬宿舍一事致有关领导的一封信.pdf)，向所有能找到的校方邮箱发送。
 
 ### 2019年7月25日
 
