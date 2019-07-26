@@ -1,5 +1,7 @@
 # WanderingD19
 
+# **处理结果：经过与校方谈判，D19毕业前不再搬迁，事情暂告一段落。本仓库将在24小时后归档只读。**
+
 详情：[GitPage](https://wanderingd19.github.io/WanderingD19/)
 
 公开信：[D19全体学生关于搬宿舍一事致有关领导的一封信](https://raw.githubusercontent.com/wanderingd19/WanderingD19/master/D19全体学生关于搬宿舍一事致有关领导的一封信.pdf)
@@ -62,6 +64,10 @@ D1、D14的地理位置差于D19，宿舍设施不优于D19。
 早上D19谈判小组与生活园区负责人进行了长达两个多小时的谈判 [截取版录音](https://raw.githubusercontent.com/wanderingd19/WanderingD19/master/audio/2019072602.mp3)
 
 这里是[初步总结](https://raw.githubusercontent.com/wanderingd19/WanderingD19/master/谈判总结.pdf)
+
+晚上发布通知D19毕业前不再搬迁，事情暂告一段落。
+
+![2019072619](images/2019072619.jpg)
 
 ## 更多链接
 - 知乎：[如何看待上海交通大学要求D19宿舍楼学生集体搬迁？](https://www.zhihu.com/question/335607167)
