@@ -4,7 +4,7 @@
 
 公开信：[D19全体学生关于搬宿舍一事致有关领导的一封信](https://raw.githubusercontent.com/wanderingd19/WanderingD19/master/D19全体学生关于搬宿舍一事致有关领导的一封信.pdf)
 
-截取版录音：[谈判小组截取版录音](./audio/2019072602.mp3 ':include')
+截取版录音：[谈判小组截取版录音](https://raw.githubusercontent.com/wanderingd19/WanderingD19/master/audio/2019072602.mp3)
 
 谈判总结：[初步总结](https://raw.githubusercontent.com/wanderingd19/WanderingD19/master/谈判总结.pdf)
 
@@ -59,7 +59,7 @@ D1、D14的地理位置差于D19，宿舍设施不优于D19。
 [搬迁意愿调查问卷](https://raw.githubusercontent.com/wanderingd19/WanderingD19/master/搬迁意愿调查问卷.pdf)
 
 ### 2019年7月26日
-早上D19谈判小组与生活园区负责人进行了长达两个多小时的谈判 [截取版录音](./audio/2019072602.mp3 ':include')
+早上D19谈判小组与生活园区负责人进行了长达两个多小时的谈判 [截取版录音](https://raw.githubusercontent.com/wanderingd19/WanderingD19/master/audio/2019072602.mp3)
 
 这里是[初步总结](https://raw.githubusercontent.com/wanderingd19/WanderingD19/master/谈判总结.pdf)
 
